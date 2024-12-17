@@ -61,7 +61,6 @@ mtk_gpu_hal.ko
 mtk_gpufreq_wrapper.ko
 mtk_gpufreq_mt6886.ko
 ged.ko
-goodix_fp.ko
 mali_prot_alloc_mt6886.ko
 mali_mgm_mt6886.ko
 mali_kbase_mt6886.ko
@@ -205,4 +204,3 @@ nothing_task_meminfo.ko
 nothing_disk_usage.ko
 nothing_readahead_trace.ko
 nothing_task_info.ko
-nothing_value_check.ko
