@@ -160,7 +160,6 @@ st21nfc.ko
 st54spi.ko
 pmic_lbat_service.ko
 pmic_lvsys_notify.ko
-goodix_fp.ko
 reset-ti-syscon.ko
 adsp.ko
 mtk_slbc.ko

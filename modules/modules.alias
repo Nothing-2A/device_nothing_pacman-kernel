@@ -9,15 +9,6 @@ alias of:N*T*Cmediatek,mt6363-keys mtk_pmic_keys
 alias of:N*T*Cmediatek,mt6363-keysC* mtk_pmic_keys
 alias of:N*T*Cmediatek,mt6377-keys mtk_pmic_keys
 alias of:N*T*Cmediatek,mt6377-keysC* mtk_pmic_keys
-alias spi:gf_spi goodix_fp
-alias of:N*T*Cmediatek,fingerprint goodix_fp
-alias of:N*T*Cmediatek,fingerprintC* goodix_fp
-alias of:N*T*Cmediatek,goodix-fp goodix_fp
-alias of:N*T*Cmediatek,goodix-fpC* goodix_fp
-alias of:N*T*Cgoodix,goodix-fp goodix_fp
-alias of:N*T*Cgoodix,goodix-fpC* goodix_fp
-alias of:N*T*Cmediatek,fingerprint-spi-dev goodix_fp
-alias of:N*T*Cmediatek,fingerprint-spi-devC* goodix_fp
 alias of:N*T*Cmediatek,mt6323 mtk_pmic_wrap
 alias of:N*T*Cmediatek,mt6323C* mtk_pmic_wrap
 alias of:N*T*Cmediatek,mt6351 mtk_pmic_wrap
@@ -418,6 +409,8 @@ alias of:N*T*Cmediatek,mt6985-disp-c3d mediatek_drm
 alias of:N*T*Cmediatek,mt6985-disp-c3dC* mediatek_drm
 alias of:N*T*Cmediatek,mt6886-disp-c3d mediatek_drm
 alias of:N*T*Cmediatek,mt6886-disp-c3dC* mediatek_drm
+alias of:N*T*Cmediatek,mt6835-disp-c3d mediatek_drm
+alias of:N*T*Cmediatek,mt6835-disp-c3dC* mediatek_drm
 alias of:N*T*Cmediatek,mt6779-disp-gamma mediatek_drm
 alias of:N*T*Cmediatek,mt6779-disp-gammaC* mediatek_drm
 alias of:N*T*Cmediatek,mt6885-disp-gamma mediatek_drm
@@ -656,6 +649,8 @@ alias of:N*T*Cmediatek,mt6879-disp-dsc mediatek_drm
 alias of:N*T*Cmediatek,mt6879-disp-dscC* mediatek_drm
 alias of:N*T*Cmediatek,mt6855-disp-dsc mediatek_drm
 alias of:N*T*Cmediatek,mt6855-disp-dscC* mediatek_drm
+alias of:N*T*Cmediatek,mt6835-disp-dsc mediatek_drm
+alias of:N*T*Cmediatek,mt6835-disp-dscC* mediatek_drm
 alias of:N*T*Cmediatek,mt6853-disp-cm mediatek_drm
 alias of:N*T*Cmediatek,mt6853-disp-cmC* mediatek_drm
 alias of:N*T*Cmediatek,mt6983-disp-cm mediatek_drm
